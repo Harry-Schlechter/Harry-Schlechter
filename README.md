@@ -27,7 +27,7 @@ Building enterprise AI platforms by day, side projects by night.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-### 🌊 Currently Outside of Code
+### Outside of Coding
 
 📍 NYC · 🎓 Proud Pitt alum · 🧗 Bouldering · 🏀 Pickup basketball · 👨‍🍳 Cooking · 🍕 Eating
 
