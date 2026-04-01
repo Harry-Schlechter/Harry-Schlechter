@@ -29,5 +29,5 @@ Building enterprise AI platforms by day, side projects by night.
 
 ### 🌊 Currently Outside of Code
 
-🧗 Bouldering · 🏀 Pickup basketball · 🎓 Pitt alum · 📍 NYC
+📍 NYC · 🎓 Proud Pitt alum · 🧗 Bouldering · 🏀 Pickup basketball · 👨‍🍳 Cooking · 🍕 Eating
 
