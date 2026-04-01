@@ -27,14 +27,6 @@ Building enterprise AI platforms by day, side projects by night.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-### 📊 Top Languages
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Schlechter&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ### 🌊 Currently Outside of Code
 
 🧗 Bouldering · 🏀 Pickup basketball · 🎓 Pitt alum · 📍 NYC
